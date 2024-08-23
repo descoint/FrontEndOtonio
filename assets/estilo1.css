@@ -8,3 +8,17 @@ nav{text-align: right;}
     margin-right: 10px;
     font-weight: bold;}
 nav a{text-decoration: none;}
+#seccion1{background-color: brown;}
+#cajitaBlanca{background-color: white;
+    margin-left: 5%;
+    width: 60%;
+    display: inline-block;
+    text-align: center;
+    border-radius: 20px;}
+
+#cajitaImagen{
+    width: 25%;
+    display: inline;
+    background-color: aqua;
+    margin-left: 5%;
+    }
