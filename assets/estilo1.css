@@ -1,7 +1,10 @@
-body{background-color: blue;}
-header{background-color: rgb(211, 147, 51);}
+
 main{background-color: aqua;}
 footer{background-color:blueviolet}
-#nav1,#nav2{background-color: antiquewhite;
-    text-align: right;}
-#div1,#div2{background-color:brown;}
+nav{text-align: right;}
+#nav1 a{color: black;}
+#nav2 a{color: blueviolet;
+    font-size:20px ;
+    margin-right: 10px;
+    font-weight: bold;}
+nav a{text-decoration: none;}
